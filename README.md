@@ -18,7 +18,7 @@ pip install SpeechRecognition keyboard PyAudio
 ```
 Cloone the repository
 ```bash
-git clone [https://github.com/shadow-edge9/homemade-notesapp]
+git clone https://github.com/shadow-edge9/homemade-notesapp
 ```
 Run the script:
 ```bash
