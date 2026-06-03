@@ -24,8 +24,7 @@ Run the script:
 ```bash
 python main.py
 ```
-NOTE: MacOS users, it's python3.
-NOTE: May require admin priviledges to access the keyboard. If the spacebar doesn't work try this:
+NOTE: MacOS users, it's python3. You may require admin priviledges to access the keyboard. If the spacebar doesn't work try this:
 
 ```bash
 sudo python main.py
